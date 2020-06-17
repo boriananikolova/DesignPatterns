@@ -1,0 +1,6 @@
+E:\UNI\Шаблони\Project\Project\Project\bin\Debug\Project.exe.config
+E:\UNI\Шаблони\Project\Project\Project\bin\Debug\Project.exe
+E:\UNI\Шаблони\Project\Project\Project\bin\Debug\Project.pdb
+E:\UNI\Шаблони\Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+E:\UNI\Шаблони\Project\Project\Project\obj\Debug\Project.exe
+E:\UNI\Шаблони\Project\Project\Project\obj\Debug\Project.pdb
